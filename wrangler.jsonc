@@ -1,0 +1,10 @@
+// Cloudflare serves this repo's images at images.closingnotes.ca (static assets only, no code).
+// A push to main redeploys automatically. Only public marketing images belong in this repo.
+{
+  "name": "market-reports-assets",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "none"
+  }
+}

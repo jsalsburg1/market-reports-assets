@@ -1,0 +1,6 @@
+# Not served: repo housekeeping files
+.git
+wrangler.jsonc
+.assetsignore
+README.md
+.nojekyll
